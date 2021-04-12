@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsunhsiao
-- 👀 I’m interested in ...uipath、Ocr、openCV、ai
-- 🌱 I’m currently learning ...uipath、Ocr
+- 👀 I’m interested in ...RPA、OCR、OPENCV、AI
+- 🌱 I’m currently learning ...RPA、OCR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...send me a email : tsunhsiao.hsu@gmail.com
 
